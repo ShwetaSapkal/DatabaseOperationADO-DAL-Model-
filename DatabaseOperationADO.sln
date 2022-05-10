@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseOperationADO", "DatabaseOperationADO\DatabaseOperationADO.csproj", "{C1D9AA60-807D-4039-986F-1F6BC5EF1867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D9AA60-807D-4039-986F-1F6BC5EF1867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D9AA60-807D-4039-986F-1F6BC5EF1867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D9AA60-807D-4039-986F-1F6BC5EF1867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D9AA60-807D-4039-986F-1F6BC5EF1867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8790CDC1-DCCF-46F0-A36C-F7B12EB7408D}
+	EndGlobalSection
+EndGlobal
